@@ -24,7 +24,7 @@ This project presents a comprehensive analysis and interactive visualization of 
 ## 🗂️ File Structure
 Sales-Dashboard-2024/
 │
-├── 📊 Sales-Dashboard-2024.xlsx
+├── 📊 Sales-Dashboard.xlsx
 ├── 📄 Sales-Dashboard-With-Pivot.pdf
 ├── 📋 README.md
 └── 🖼️ screenshots/
